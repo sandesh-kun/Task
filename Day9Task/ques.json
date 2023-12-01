@@ -1,0 +1,23 @@
+[
+    {
+      "question": "What is the capital of Nepal?",
+      "options": ["Delhi", "Kathmandu", "Beijing", "Dhaka"],
+      "correct_answer": "Kathmandu"
+    },
+    {
+      "question": "What weapon is famous among Nepali Army?",
+      "options": ["Sickle(Hasiya)", "Kodalo", "Khukuri", "Kucho(Broom)"],
+      "correct_answer": "Khukuri"
+    },
+    {
+      "question": "What is the national flower of Nepal?",
+      "options": ["Rose", "Rhododendron", "Orchid", "Sunflower"],
+      "correct_answer": "Rhododendron"
+    },
+    {
+        "question": "Who is the first Scientist of Nepal?",
+        "options": ["Sandesh Dhungana", "Gehendra Samsher Rana", "G.P Koirala", "Toney Stark"],
+        "correct_answer": "Gehendra Samsher Rana"
+    }
+  ]
+  
