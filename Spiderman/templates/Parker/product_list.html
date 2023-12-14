@@ -1,0 +1,14 @@
+{% extends 'Parker/base.html' %}
+
+{% block title %}Product List - My Website{% endblock %}
+
+{% block header %}Product List{% endblock %}
+
+{% block content %}
+    <h2>Products</h2>
+    <ul>
+        {% for product in products %}
+            <li>{{ product.name }} - {{ product.category.name }} - {{ product.brand.name }} - ${{ product.price }}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
